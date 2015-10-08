@@ -1,0 +1,8 @@
+{
+  "name": "meta4creations/post-duplicator",
+  "type": "wordpress-plugin",
+  "description": "Creates functionality to duplicate any and all post types, including taxonomies & custom fields.",
+  "require": {
+    "composer/installers": "~1.0"
+  }
+}
